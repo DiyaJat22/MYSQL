@@ -53,7 +53,7 @@ Click on the links below to access detailed explanations and examples.
 ## Data Modification
 
 - [MySQL INSERT INTO](mysql-insert-into.md)  
-- [MySQL UPDATE](mysql-update .md)  
+- [MySQL UPDATE](mysql-update.md)  
 - [MySQL DELETE](mysql-delete.md)  
 
 ---
@@ -69,4 +69,3 @@ Click on the links below to access detailed explanations and examples.
 
 This repository is maintained by **Diya Jat**, Cybersecurity Enthusiast.
 
----

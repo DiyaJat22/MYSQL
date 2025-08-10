@@ -92,3 +92,5 @@ Click on the links below to access detailed explanations and examples.
 
 This repository is maintained by **Diya Jat**, Cybersecurity Enthusiast.
 
+---
+

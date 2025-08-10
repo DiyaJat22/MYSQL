@@ -53,7 +53,7 @@ Click on the links below to access detailed explanations and examples.
 ## Database Management
 - [MySQL Database](mysql-database.md)
 - [MySQL Create DB](mysql-create-db.md)
-- [MySQL Drop DB](mysql-drop-db.md)
+- [MySQL Drop DB](mysql-drop.md)
 
 ## Table Management
 - [MySQL Create Table](mysql-create-table.md)
@@ -77,14 +77,15 @@ Click on the links below to access detailed explanations and examples.
 - [MySQL Dates](mysql-dates.md)
 
 ## Views
-- [MySQL Views](mysql-views.md)
+- [MySQL View](mysql-view.md)
 
 ## References and Data Types
-- [MySQL References](mysql-references.md)
-- [MySQL Data Types](mysql-data-types.md)
+- [MySQL References](mysql-references.md) <!-- Note: You don't have this in the list; add or remove -->
+- [MySQL Data Type](mysql-data-type.md)
 
 ## Functions
 - [MySQL Functions](mysql-functions.md)
+
 
 ---
 

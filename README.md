@@ -51,40 +51,40 @@ Click on the links below to access detailed explanations and examples.
 - [MySQL UNION ALL](mysql-union-all.md)  
 
 ## Database Management
-- [MySQL Database](mysql-database)
-- [MySQL Create DB](mysql-create-db)
-- [MySQL Drop DB](mysql-drop-db)
+- [MySQL Database](mysql-database.md)
+- [MySQL Create DB](mysql-create-db.md)
+- [MySQL Drop DB](mysql-drop-db.md)
 
 ## Table Management
-- [MySQL Create Table](mysql-create-table)
-- [MySQL Drop Table](mysql-drop-table)
-- [MySQL Alter Table](mysql-alter-table)
+- [MySQL Create Table](mysql-create-table.md)
+- [MySQL Drop Table](mysql-drop-table.md)
+- [MySQL Alter Table](mysql-alter-table.md)
 
 ## Constraints
-- [MySQL Constraints](mysql-constraints)
-- [MySQL Not Null](mysql-not-null)
-- [MySQL Unique](mysql-unique)
-- [MySQL Primary Key](mysql-primary-key)
-- [MySQL Foreign Key](mysql-foreign-key)
-- [MySQL Check](mysql-check)
-- [MySQL Default](mysql-default)
+- [MySQL Constraints](mysql-constraints.md)
+- [MySQL Not Null](mysql-not-null.md)
+- [MySQL Unique](mysql-unique.md)
+- [MySQL Primary Key](mysql-primary-key.md)
+- [MySQL Foreign Key](mysql-foreign-key.md)
+- [MySQL Check](mysql-check.md)
+- [MySQL Default](mysql-default.md)
 
 ## Indexing and Auto Increment
-- [MySQL Create Index](mysql-create-index)
-- [MySQL Auto Increment](mysql-auto-increment)
+- [MySQL Create Index](mysql-create-index.md)
+- [MySQL Auto Increment](mysql-auto-increment.md)
 
 ## Date and Time
-- [MySQL Dates](mysql-dates)
+- [MySQL Dates](mysql-dates.md)
 
 ## Views
-- [MySQL Views](mysql-views)
+- [MySQL Views](mysql-views.md)
 
 ## References and Data Types
-- [MySQL References](mysql-references)
-- [MySQL Data Types](mysql-data-types)
+- [MySQL References](mysql-references.md)
+- [MySQL Data Types](mysql-data-types.md)
 
 ## Functions
-- [MySQL Functions](mysql-functions)
+- [MySQL Functions](mysql-functions.md)
 
 ---
 

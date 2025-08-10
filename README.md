@@ -1,31 +1,52 @@
 # MySQL and SQL Basics Documentation
 
-Welcome to the documentation repository containing useful MySQL and SQL topics. Click on the links below to access detailed explanations and examples.
-
-## MySQL Topics
-
-- [MySQL RDBMS](mysql-RDBMS.md)
-- [MySQL AND, OR, and NOT Operators](mysql-and-or-not-operators.md)
-- [MySQL Basic Queries](mysql-basic.md)
-- [MySQL COUNT, AVG, and SUM Functions](mysql-count-avg-sum.md)
-- [MySQL DELETE Statement](mysql-delete.md)
-- [MySQL IN Function](mysql-in.md)
-- [MySQL INSERT INTO Statement](mysql-insert-into.md)
-- [MySQL LIKE Function](mysql-like.md)
-- [MySQL LIMIT Clause](mysql-limit.md)
-- [MySQL MIN and MAX Functions](mysql-min-and-max-function.md)
-- [MySQL NULL Values](mysql-null.md)
-- [MySQL ORDER BY Clause](mysql-order-by.md)
-- [MySQL SELECT Statement](mysql-select.md)
-- [MySQL UPDATE Statement](mysql-update.md)
-- [MySQL WHERE Clause](mysql-where.md)
-- [MySQL Wildcard Characters](mysql-wildcard.md)
-
-## SQL Basics
-
-- [SQL Basic](sql-basic.md)
+Welcome to the documentation repository containing useful MySQL and SQL topics.  
+Click on the links below to access detailed explanations and examples.
 
 ---
 
-*This repository is maintained by Diya Jat, Cybersecurity Enthusiast.*
+## MySQL Topics
 
+- [MySQL SQL](#mysql-sql)  
+- [MySQL SELECT](#mysql-select)  
+- [MySQL WHERE](#mysql-where)  
+- [MySQL AND, OR, NOT](#mysql-and-or-not)  
+- [MySQL ORDER BY](#mysql-order-by)  
+- [MySQL INSERT INTO](#mysql-insert-into)  
+- [MySQL NULL Values](#mysql-null-values)  
+- [MySQL UPDATE](#mysql-update)  
+- [MySQL DELETE](#mysql-delete)  
+- [MySQL LIMIT](#mysql-limit)  
+- [MySQL MIN and MAX](#mysql-min-and-max)  
+- [MySQL COUNT, AVG, SUM](#mysql-count-avg-sum)  
+- [MySQL LIKE](#mysql-like)  
+- [MySQL Wildcards](#mysql-wildcards)  
+- [MySQL IN](#mysql-in)  
+- [MySQL BETWEEN](#mysql-between)  
+- [MySQL Aliases](#mysql-aliases)  
+- [MySQL Joins](#mysql-joins)  
+  - [MySQL INNER JOIN](#mysql-inner-join)  
+  - [MySQL LEFT JOIN](#mysql-left-join)  
+  - [MySQL RIGHT JOIN](#mysql-right-join)  
+  - [MySQL CROSS JOIN](#mysql-cross-join)  
+  - [MySQL Self Join](#mysql-self-join)  
+- [MySQL UNION](#mysql-union)  
+- [MySQL UNION ALL](#mysql-union-all)  
+- [MySQL GROUP BY](#mysql-group-by)  
+- [MySQL HAVING](#mysql-having)  
+- [MySQL Comments](#mysql-comments)  
+- [MySQL Operators](#mysql-operators)  
+
+---
+
+## SQL Basics
+
+- [SQL Basic](#sql-basic)  
+
+---
+
+## About
+
+This repository is maintained by **Diya Jat**, Cybersecurity Enthusiast.
+
+---

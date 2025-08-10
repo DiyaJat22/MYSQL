@@ -5,43 +5,63 @@ Click on the links below to access detailed explanations and examples.
 
 ---
 
-## MySQL Topics
+## Basics & General
 
-- [MySQL SQL](#mysql-sql)  
-- [MySQL SELECT](#mysql-select)  
-- [MySQL WHERE](#mysql-where)  
-- [MySQL AND, OR, NOT](#mysql-and-or-not)  
-- [MySQL ORDER BY](#mysql-order-by)  
-- [MySQL INSERT INTO](#mysql-insert-into)  
-- [MySQL NULL Values](#mysql-null-values)  
-- [MySQL UPDATE](#mysql-update)  
-- [MySQL DELETE](#mysql-delete)  
-- [MySQL LIMIT](#mysql-limit)  
-- [MySQL MIN and MAX](#mysql-min-and-max)  
-- [MySQL COUNT, AVG, SUM](#mysql-count-avg-sum)  
-- [MySQL LIKE](#mysql-like)  
-- [MySQL Wildcards](#mysql-wildcards)  
-- [MySQL IN](#mysql-in)  
-- [MySQL BETWEEN](#mysql-between)  
-- [MySQL Aliases](#mysql-aliases)  
-- [MySQL Joins](#mysql-joins)  
-  - [MySQL INNER JOIN](#mysql-inner-join)  
-  - [MySQL LEFT JOIN](#mysql-left-join)  
-  - [MySQL RIGHT JOIN](#mysql-right-join)  
-  - [MySQL CROSS JOIN](#mysql-cross-join)  
-  - [MySQL Self Join](#mysql-self-join)  
-- [MySQL UNION](#mysql-union)  
-- [MySQL UNION ALL](#mysql-union-all)  
-- [MySQL GROUP BY](#mysql-group-by)  
-- [MySQL HAVING](#mysql-having)  
-- [MySQL Comments](#mysql-comments)  
-- [MySQL Operators](#mysql-operators)  
+- [MySQL RDBMS](mysql-RDBMS.md)  
+- [MySQL Basic](mysql-basic.md)  
+- [MySQL Comments](mysql-comments.md)  
+- [MySQL Operators](mysql-operators.md)  
+- [MySQL NULL Values](mysql-null.md)  
 
 ---
 
-## SQL Basics
+## Data Retrieval & Querying
 
-- [SQL Basic](#sql-basic)  
+- [MySQL SELECT](mysql-select.md)  
+- [MySQL WHERE](mysql-and-or-not-operators.md) *(See logical operators too)*  
+- [MySQL AND, OR, NOT Operators](mysql-and-or-not-operators.md)  
+- [MySQL ORDER BY](mysql-order-by.md)  
+- [MySQL LIMIT](mysql-limit.md)  
+- [MySQL LIKE](mysql-like.md)  
+- [MySQL Wildcards](mysql-like.md) *(Often covered with LIKE)*  
+- [MySQL IN](mysql-in.md)  
+- [MySQL BETWEEN](mysql-between.md)  
+- [MySQL Aliases](mysql-alias.md)  
+
+---
+
+## Joins
+
+- [MySQL JOIN](mysql-join.md)  
+- [MySQL INNER JOIN](mysql-inner-join.md)  
+- [MySQL LEFT JOIN](mysql-left-join.md)  
+- [MySQL RIGHT JOIN](mysql-right-join.md)  
+- [MySQL CROSS JOIN](mysql-cross-join.md)  
+- [MySQL Self Join](*(You may add if you create this file)*)  
+
+---
+
+## Aggregation & Grouping
+
+- [MySQL COUNT, AVG, SUM](mysql-count-avg-sum.md)  
+- [MySQL MIN and MAX Function](mysql-min-and-max-function.md)  
+- [MySQL GROUP BY](mysql-group-by.md)  
+- [MySQL HAVING Clause](mysql-having-clause.md)  
+
+---
+
+## Data Modification
+
+- [MySQL INSERT INTO](mysql-insert-into.md)  
+- [MySQL UPDATE](mysql-update .md)  
+- [MySQL DELETE](mysql-delete.md)  
+
+---
+
+## Set Operations
+
+- [MySQL UNION](mysql-union.md)  
+- [MySQL UNION ALL](mysql-union-all.md)  
 
 ---
 
